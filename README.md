@@ -1,16 +1,25 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="JustEn0t — Game development / Web / Telegram">
+</picture>
 
-<!--
-**JustEn0t/JustEn0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Привет, я Арсений 👋
 
-Here are some ideas to get you started:
+Хочу стать разработчиком игр. Мне интересно создавать миры, механики и штуки, с которыми можно взаимодействовать. А ещё — делать сайты и Telegram-ботов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+PLAYER       JustEn0t
+MAIN QUEST   Стать game developer
+SIDE QUESTS  Сайты · Telegram-боты
+STATUS       В начале приключения
+```
+
+### Выбор направления
+
+🎮 **Game development** — главное направление, в котором хочу развиваться.
+
+🌐 **Web** — сайты, интерфейсы и интерактивные идеи.
+
+🤖 **Telegram** — боты, которые помогают с повседневными задачами.
+
+<!-- Добавим реальные проекты и технологии, когда выберем, что показать. -->
