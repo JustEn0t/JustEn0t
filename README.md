@@ -17,8 +17,8 @@ STATUS       В работе
 ### Проекты
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dotalens-dark.svg">
-  <img src="assets/dotalens-light.svg" width="100%" alt="DotaLens — закрытое iOS-приложение для Dota 2 на Swift и SwiftUI">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dotalens-emblem-dark.svg">
+  <img src="assets/dotalens-emblem-light.svg" width="100%" alt="DotaLens — закрытое iOS-приложение для Dota 2 на Swift и SwiftUI">
 </picture>
 
 **DotaLens** — моё приложение для Dota 2 на iOS. Статистика игроков, энциклопедия героев и предметов, анализ драфта и рекомендации контрпиков.
