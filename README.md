@@ -5,7 +5,7 @@
 
 ### Арсений / JustEn0t
 
-Делаю сайты и Telegram-ботов. Следующая цель — собственные игры.
+Делаю приложения, сайты и Telegram-ботов. Следующая цель — собственные игры.
 
 ```text
 PLAYER       JustEn0t
@@ -13,6 +13,17 @@ MAIN QUEST   Стать game developer
 SIDE QUESTS  Сайты · Telegram-боты
 STATUS       В работе
 ```
+
+### Проекты
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dotalens-dark.svg">
+  <img src="assets/dotalens-light.svg" width="100%" alt="DotaLens — закрытое iOS-приложение для Dota 2 на Swift и SwiftUI">
+</picture>
+
+**DotaLens** — моё приложение для Dota 2 на iOS. Статистика игроков, энциклопедия героев и предметов, анализ драфта и рекомендации контрпиков.
+
+`Swift 6` · `SwiftUI` · `OpenDota API` · `Закрытый проект`
 
 ### Чем занимаюсь
 
