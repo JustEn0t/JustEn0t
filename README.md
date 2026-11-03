@@ -27,6 +27,17 @@ STATUS       В работе
 
 [Подробнее о DotaLens](https://github.com/JustEn0t/DotaLens-showcase)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/overchat-dark.svg">
+  <img src="assets/overchat-light.svg" width="100%" alt="OverChat — чат Twitch поверх игры для Windows на Rust, Tauri и TypeScript">
+</picture>
+
+**OverChat** — моё приложение для стримеров: чат Twitch поверх игры или любого другого окна Windows. Прозрачный оверлей, сквозные клики, горячие клавиши и смайлики Twitch и 7TV.
+
+`Rust` · `Tauri 2` · `TypeScript` · `Windows` · `Публичный исходный код`
+
+[Подробнее об OverChat](https://github.com/JustEn0t/OverChat)
+
 ### Чем занимаюсь
 
 🎮 **Game development** — главное направление, в котором хочу развиваться.
