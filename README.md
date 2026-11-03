@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="JustEn0t — Game development / Web / Telegram">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-red-dark.svg">
+  <img src="assets/header-red-light.svg" width="100%" alt="JustEn0t — Game development / Web / Telegram">
 </picture>
 
 ### Привет, я Арсений 👋

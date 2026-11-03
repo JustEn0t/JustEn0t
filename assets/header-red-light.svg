@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+ <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#85636a" stroke-opacity=".09"/></pattern></defs>
+ <rect width="1200" height="360" rx="20" fill="#fff6f5"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+ <rect x="40" y="40" width="5" height="280" fill="#ef3340"/>
+ <g font-family="monospace"><text x="72" y="85" fill="#85636a" font-size="15" letter-spacing="4">PLAYER PROFILE / 001</text>
+ <text x="66" y="185" fill="#30161d" font-size="84" font-weight="700" letter-spacing="-5">JustEn0t<tspan fill="#ef3340">_</tspan></text>
+ <text x="72" y="235" fill="#85636a" font-size="21">Future game developer</text>
+ <text x="72" y="300" fill="#30161d" font-size="15" letter-spacing="2">GAME DEV <tspan fill="#ef3340">/</tspan> WEB <tspan fill="#ef3340">/</tspan> TELEGRAM</text></g>
+ <rect x="860" y="66" width="270" height="228" rx="18" fill="#f7e3e4" stroke="#85636a" stroke-opacity=".2"/>
+ <g transform="translate(900 88)" shape-rendering="crispEdges">
+ <!-- A ringed tail behind the body. -->
+ <path d="M108 108H180V116H204V140H192V152H144V144H120V132H108Z" fill="#a5a8af"/>
+ <path d="M132 108H148V144H132ZM164 108H180V152H164ZM192 116H204V140H192Z" fill="#36343e"/>
+ <!-- Body, belly and paws. -->
+ <path d="M44 96H112V108H124V148H112V160H32V148H24V124H32V108H44Z" fill="#747781"/>
+ <path d="M56 108H92V120H104V148H44V124H56Z" fill="#d9dce1"/>
+ <path d="M28 148H56V164H24V156H28ZM92 148H120V164H88V156H92Z" fill="#36343e"/>
+ <!-- Pointed ears, a broad face, and a separate eye mask. -->
+ <path d="M20 4H44V16H56V28H96V16H108V4H132V52H144V88H132V100H112V112H40V100H20V88H8V52H20Z" fill="#a5a8af"/>
+ <path d="M28 16H40V28H48V40H28ZM112 16H124V40H104V28H112Z" fill="#5b3b46"/>
+ <path d="M20 52H56V44H68V56H84V44H96V52H132V76H120V88H96V80H84V72H68V80H56V88H32V76H20Z" fill="#302e37"/>
+ <path d="M36 60H52V72H36ZM100 60H116V72H100Z" fill="#fff8f4"/>
+ <path d="M44 60H52V72H44ZM100 60H108V72H100Z" fill="#19151b"/>
+ <!-- Pale cheeks and a small horizontal nose: no beak. -->
+ <path d="M56 80H96V88H112V100H96V108H56V100H40V88H56Z" fill="#e7e8eb"/>
+ <path d="M64 84H88V92H80V100H72V92H64Z" fill="#302e37"/>
+ <path d="M60 112H96V120H60Z" fill="#ef3340"/><path d="M88 120H104V140H92V132H88Z" fill="#bf1d2a"/>
+ </g>
+ <text x="995" y="271" fill="#85636a" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="3">PRESS START</text></svg>
