@@ -23,7 +23,9 @@ STATUS       В работе
 
 **DotaLens** — моё приложение для Dota 2 на iOS. Статистика игроков, энциклопедия героев и предметов, анализ драфта и рекомендации контрпиков.
 
-`Swift 6` · `SwiftUI` · `OpenDota API` · `Закрытый проект`
+`Swift 6` · `SwiftUI` · `OpenDota API` · `Закрытый исходный код`
+
+[Подробнее о DotaLens](https://github.com/JustEn0t/DotaLens-showcase)
 
 ### Чем занимаюсь
 
