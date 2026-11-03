@@ -40,15 +40,15 @@ STATUS       В работе
 
 ### Чем занимаюсь
 
-🎮 **Game development** — главное направление, в котором хочу развиваться.
+**Game development** — главное направление, в котором хочу развиваться.
 
-🌐 **Web** — сайты, интерфейсы и интерактивные идеи.
+**Web** — сайты, интерфейсы и интерактивные идеи.
 
-🤖 **Telegram** — боты, которые помогают с повседневными задачами.
+**Telegram** — боты, которые помогают с повседневными задачами.
 
 ### F1 / Charles Leclerc
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/f1-dark.svg">
-  <img src="assets/f1-light.svg" width="100%" alt="Formula 1 fan — болею за Charles Leclerc">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/f1-car-dark.svg">
+  <img src="assets/f1-car-light.svg" width="100%" alt="Formula 1 fan — болею за Charles Leclerc">
 </picture>
