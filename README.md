@@ -49,6 +49,6 @@ STATUS       В работе
 ### F1 / Charles Leclerc
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/f1-car-dark.svg">
-  <img src="assets/f1-car-light.svg" width="100%" alt="Formula 1 fan — болею за Charles Leclerc">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/f1-emoji-dark.svg">
+  <img src="assets/f1-emoji-light.svg" width="100%" alt="Formula 1 fan — болею за Charles Leclerc">
 </picture>
