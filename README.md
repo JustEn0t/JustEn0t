@@ -3,18 +3,18 @@
   <img src="assets/header-red-light.svg" width="100%" alt="JustEn0t — Game development / Web / Telegram">
 </picture>
 
-### Привет, я Арсений 👋
+### Арсений / JustEn0t
 
-Хочу стать разработчиком игр. Мне интересно создавать миры, механики и штуки, с которыми можно взаимодействовать. А ещё — делать сайты и Telegram-ботов.
+Делаю сайты и Telegram-ботов. Следующая цель — собственные игры.
 
 ```text
 PLAYER       JustEn0t
 MAIN QUEST   Стать game developer
 SIDE QUESTS  Сайты · Telegram-боты
-STATUS       В начале приключения
+STATUS       В работе
 ```
 
-### Выбор направления
+### Чем занимаюсь
 
 🎮 **Game development** — главное направление, в котором хочу развиваться.
 
@@ -22,12 +22,9 @@ STATUS       В начале приключения
 
 🤖 **Telegram** — боты, которые помогают с повседневными задачами.
 
-### Вне редактора — на стартовой решётке
+### F1 / Charles Leclerc
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/f1-dark.svg">
   <img src="assets/f1-light.svg" width="100%" alt="Formula 1 fan — болею за Charles Leclerc">
 </picture>
-
-Обожаю смотреть Формулу-1. Мой любимый гонщик — **Charles Leclerc** 🏎️
-
