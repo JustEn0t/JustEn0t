@@ -22,4 +22,12 @@ STATUS       В начале приключения
 
 🤖 **Telegram** — боты, которые помогают с повседневными задачами.
 
-<!-- Добавим реальные проекты и технологии, когда выберем, что показать. -->
+### Вне редактора — на стартовой решётке
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/f1-dark.svg">
+  <img src="assets/f1-light.svg" width="100%" alt="Formula 1 fan — болею за Charles Leclerc">
+</picture>
+
+Обожаю смотреть Формулу-1. Мой любимый гонщик — **Charles Leclerc** 🏎️
+
