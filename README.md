@@ -39,8 +39,8 @@ STATUS       В работе
 [Подробнее об OverChat](https://github.com/JustEn0t/OverChat)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/relay-violet-dark.png">
-  <img src="assets/relay-violet-light.png" width="100%" alt="RELAY — анонсы Twitch в Telegram для Windows на C# и WPF">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/relay-violet-dark.svg">
+  <img src="assets/relay-violet-light.svg" width="100%" alt="RELAY — анонсы Twitch в Telegram для Windows на C# и WPF">
 </picture>
 
 **RELAY** — моё приложение для стримеров: анонсы Twitch в Telegram с собственного ПК. Карточка с игрой и названием, обновление статуса во время эфира и автоматическое удаление поста после стрима.
