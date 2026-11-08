@@ -47,7 +47,7 @@ STATUS       В работе
 
 `C#` · `WPF` · `Telegram Bot API` · `Windows` · `Публичный исходный код`
 
-[Подробнее о RELAY](https://github.com/JustEn0t/Relay) · [Скачать EXE](https://github.com/JustEn0t/Relay/releases/latest)
+[Подробнее о RELAY](https://github.com/JustEn0t/Relay) 
 
 ### Чем занимаюсь
 
