@@ -38,6 +38,17 @@ STATUS       В работе
 
 [Подробнее об OverChat](https://github.com/JustEn0t/OverChat)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/relay-dark.svg">
+  <img src="assets/relay-light.svg" width="100%" alt="RELAY — анонсы Twitch в Telegram для Windows на C# и WPF">
+</picture>
+
+**RELAY** — моё приложение для стримеров: анонсы Twitch в Telegram с собственного ПК. Карточка с игрой и названием, обновление статуса во время эфира и автоматическое удаление поста после стрима.
+
+`C#` · `WPF` · `Telegram Bot API` · `Windows` · `Публичный исходный код`
+
+[Подробнее о RELAY](https://github.com/JustEn0t/Relay) · [Скачать EXE](https://github.com/JustEn0t/Relay/releases/latest)
+
 ### Чем занимаюсь
 
 **Game development** — главное направление, в котором хочу развиваться.
