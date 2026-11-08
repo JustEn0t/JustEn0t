@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-red-dark.svg">
-  <img src="assets/header-red-light.svg" width="100%" alt="JustEn0t — Game development / Web / Telegram">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-violet-dark.svg">
+  <img src="assets/header-violet-light.svg" width="100%" alt="JustEn0t — Game development / Web / Telegram">
 </picture>
 
 ### Арсений / JustEn0t
@@ -17,8 +17,8 @@ STATUS       В работе
 ### Проекты
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dotalens-emblem-dark.svg">
-  <img src="assets/dotalens-emblem-light.svg" width="100%" alt="DotaLens — закрытое iOS-приложение для Dota 2 на Swift и SwiftUI">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dotalens-violet-dark.svg">
+  <img src="assets/dotalens-violet-light.svg" width="100%" alt="DotaLens — закрытое iOS-приложение для Dota 2 на Swift и SwiftUI">
 </picture>
 
 **DotaLens** — моё приложение для Dota 2 на iOS. Статистика игроков, энциклопедия героев и предметов, анализ драфта и рекомендации контрпиков.
@@ -28,8 +28,8 @@ STATUS       В работе
 [Подробнее о DotaLens](https://github.com/JustEn0t/DotaLens-showcase)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/overchat-dark.svg">
-  <img src="assets/overchat-light.svg" width="100%" alt="OverChat — чат Twitch поверх игры для Windows на Rust, Tauri и TypeScript">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/overchat-violet-dark.svg">
+  <img src="assets/overchat-violet-light.svg" width="100%" alt="OverChat — чат Twitch поверх игры для Windows на Rust, Tauri и TypeScript">
 </picture>
 
 **OverChat** — моё приложение для стримеров: чат Twitch поверх игры или любого другого окна Windows. Прозрачный оверлей, сквозные клики, горячие клавиши и смайлики Twitch и 7TV.
@@ -39,8 +39,8 @@ STATUS       В работе
 [Подробнее об OverChat](https://github.com/JustEn0t/OverChat)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/relay-dark.svg">
-  <img src="assets/relay-light.svg" width="100%" alt="RELAY — анонсы Twitch в Telegram для Windows на C# и WPF">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/relay-violet-dark.svg">
+  <img src="assets/relay-violet-light.svg" width="100%" alt="RELAY — анонсы Twitch в Telegram для Windows на C# и WPF">
 </picture>
 
 **RELAY** — моё приложение для стримеров: анонсы Twitch в Telegram с собственного ПК. Карточка с игрой и названием, обновление статуса во время эфира и автоматическое удаление поста после стрима.
@@ -60,6 +60,6 @@ STATUS       В работе
 ### F1 / Charles Leclerc
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/f1-red-flag-dark.svg">
-  <img src="assets/f1-red-flag-light.svg" width="100%" alt="Formula 1 fan — болею за Charles Leclerc">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/f1-violet-dark.svg">
+  <img src="assets/f1-violet-light.svg" width="100%" alt="Formula 1 fan — болею за Charles Leclerc">
 </picture>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240"><rect x="1" y="1" width="1198" height="238" rx="18" fill="#f7f3ff" stroke="#d8c7ec"/><rect x="1" y="24" width="5" height="192" fill="#7848be"/><g font-family="monospace"><text x="42" y="44" font-size="13" letter-spacing="3" fill="#7848be">FEATURED PROJECT / iOS</text><text x="38" y="117" font-size="57" font-weight="700" fill="#2b1b40">DotaLens</text><text x="42" y="157" font-size="18" fill="#75618b">PLAYER STATS / HEROES / SMART DRAFTER</text><text x="42" y="207" font-size="13" letter-spacing="2" fill="#75618b">SWIFT · SWIFTUI <tspan fill="#7848be">/</tspan> PRIVATE SOURCE</text></g><g transform="translate(938 18) scale(0.2)">
+  <defs><radialGradient id="z1_bg" cx=".5" cy="0.42" r=".75"><stop offset="0" stop-color="#321647"/><stop offset="1" stop-color="#120b20"/></radialGradient>
+    <linearGradient id="z1_rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a264db"/><stop offset=".5" stop-color="#51257a"/><stop offset="1" stop-color="#291040"/></linearGradient>
+    <linearGradient id="z1_wing" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dbc1ff"/><stop offset=".5" stop-color="#7848be"/><stop offset="1" stop-color="#6b2fa0"/></linearGradient>
+    <linearGradient id="z1_fil" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dbc1ff"/><stop offset=".5" stop-color="#7848be"/><stop offset="1" stop-color="#6b2fa0"/></linearGradient>
+    <linearGradient id="z1_hdl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dbc1ff"/><stop offset=".5" stop-color="#7848be"/><stop offset="1" stop-color="#6b2fa0"/></linearGradient>
+    <linearGradient id="z1_ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c49aff"/><stop offset=".35" stop-color="#7848be"/><stop offset=".65" stop-color="#8d45ca"/><stop offset="1" stop-color="#60288f"/></linearGradient>
+    <radialGradient id="z1_boss" cx=".38" cy=".32" r=".75"><stop offset="0" stop-color="#dbc1ff"/><stop offset=".6" stop-color="#7848be"/><stop offset="1" stop-color="#6b2fa0"/></radialGradient>
+    <radialGradient id="z1_glass" cx=".38" cy=".32" r=".8"><stop offset="0" stop-color="#cba8ff"/><stop offset="1" stop-color="#7631b1"/></radialGradient>
+    <clipPath id="z1_field"><path d="M512 132C560 150 610 150 660 146C820 180 928 320 924 500C920 700 740 870 512 884C284 870 104 700 100 500C96 320 204 180 364 146C414 150 464 150 512 132Z" transform="translate(512 508) scale(0.86) translate(-512 -508)"/></clipPath>
+    </defs>
+  
+  
+  <g transform="translate(512 512) scale(1) translate(-512 -512)">
+    <path d="M512 132C560 150 610 150 660 146C820 180 928 320 924 500C920 700 740 870 512 884C284 870 104 700 100 500C96 320 204 180 364 146C414 150 464 150 512 132Z" fill="url(#z1_rim)"/>
+    <path d="M512 132C560 150 610 150 660 146C820 180 928 320 924 500C920 700 740 870 512 884C284 870 104 700 100 500C96 320 204 180 364 146C414 150 464 150 512 132Z" fill="none" stroke="url(#z1_fil)" stroke-width="10" transform="translate(512 508) scale(0.965) translate(-512 -508)"/>
+    <path d="M512 132C560 150 610 150 660 146C820 180 928 320 924 500C920 700 740 870 512 884C284 870 104 700 100 500C96 320 204 180 364 146C414 150 464 150 512 132Z" fill="none" stroke="url(#z1_fil)" stroke-width="12" stroke-dasharray="3 30" stroke-linecap="round" transform="translate(512 508) scale(0.925) translate(-512 -508)"/>
+    <path d="M512 132C560 150 610 150 660 146C820 180 928 320 924 500C920 700 740 870 512 884C284 870 104 700 100 500C96 320 204 180 364 146C414 150 464 150 512 132Z" fill="none" stroke="url(#z1_fil)" stroke-width="8" transform="translate(512 508) scale(0.885) translate(-512 -508)"/>
+    <g fill="url(#z1_fil)">
+      <circle cx="140" cy="430" r="20"/><circle cx="884" cy="430" r="20"/>
+      <circle cx="176" cy="668" r="18"/><circle cx="848" cy="668" r="18"/>
+      <path d="M512 122C540 150 560 176 512 206C464 176 484 150 512 122Z"/>
+      <path d="M512 896C540 868 560 842 512 812C464 842 484 868 512 896Z"/>
+    </g><path d="M512 132C560 150 610 150 660 146C820 180 928 320 924 500C920 700 740 870 512 884C284 870 104 700 100 500C96 320 204 180 364 146C414 150 464 150 512 132Z" fill="#f7f3ff" transform="translate(512 508) scale(0.86) translate(-512 -508)"/>
+    <g clip-path="url(#z1_field)">
+      <g transform="translate(512 508) rotate(45) scale(1.12 1)"><path d="M0 -270A270 270 0 0 1 0 270A135 135 0 0 1 0 0A135 135 0 0 0 0 -270Z" fill="url(#z1_wing)" /><path d="M0 -270A270 270 0 0 1 0 270A135 135 0 0 1 0 0A135 135 0 0 0 0 -270Z" fill="url(#z1_wing)"  transform="rotate(180)"/></g>
+      <g transform="translate(512 508) rotate(45) scale(1.12 1)"></g>
+      <g transform="translate(512 508) rotate(45) scale(1.12 1)"><path d="M0 -270A270 270 0 0 1 0 270A135 135 0 0 1 0 0A135 135 0 0 0 0 -270Z" fill="none" stroke="#151020" stroke-width="46" stroke-linejoin="round"/><path d="M0 -270A270 270 0 0 1 0 270A135 135 0 0 1 0 0A135 135 0 0 0 0 -270Z" fill="none" stroke="#151020" stroke-width="46" stroke-linejoin="round" transform="rotate(180)"/></g>
+    </g>
+      <g transform="translate(592.6094 588.6094) rotate(-45)"><rect x="-32" y="0" width="64" height="300" rx="32" fill="url(#z1_hdl)" stroke="#372049" stroke-width="5"/></g>
+      <path d="M512.0 374.0L543.6 390.2L579.0 392.0L598.3 421.7L628.0 441.0L629.8 476.4L646.0 508.0L629.8 539.6L628.0 575.0L598.3 594.3L579.0 624.0L543.6 625.8L512.0 642.0L480.4 625.8L445.0 624.0L425.7 594.3L396.0 575.0L394.2 539.6L378.0 508.0L394.2 476.4L396.0 441.0L425.7 421.7L445.0 392.0L480.4 390.2Z" fill="url(#z1_boss)" stroke="#372049" stroke-width="4"/>
+      <circle cx="512" cy="508" r="100" fill="url(#z1_glass)"/>
+      <circle cx="512" cy="508" r="100" fill="none" stroke="url(#z1_hdl)" stroke-width="22"/>
+      <path d="M512 462Q521.2 498.8 558 508Q521.2 517.2 512 554Q502.8 517.2 466 508Q502.8 498.8 512 462Z" fill="#f3e7ff"/>
+      <path d="M450 466A76 76 0 0 1 492 436" stroke="#fff" stroke-opacity=".5" stroke-width="10" stroke-linecap="round" fill="none"/></g>
+  </g></svg>
