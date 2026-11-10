@@ -1,16 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-violet-dark.svg">
-  <img src="assets/header-violet-light.svg" width="100%" alt="JustEn0t — Game development / Web / Telegram">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-software-violet-dark.svg">
+  <img src="assets/header-software-violet-light.svg" width="100%" alt="JustEn0t — Game development / Software">
 </picture>
 
 ### Арсений / JustEn0t
 
-Делаю приложения, сайты и Telegram-ботов. Следующая цель — собственные игры.
+Разрабатываю приложения для ПК и iOS. Следующая цель — собственные игры.
 
 ```text
 PLAYER       JustEn0t
 MAIN QUEST   Стать game developer
-SIDE QUESTS  Сайты · Telegram-боты
+SIDE QUESTS  Разработка программ
 STATUS       В работе
 ```
 
@@ -53,9 +53,7 @@ STATUS       В работе
 
 **Game development** — главное направление, в котором хочу развиваться.
 
-**Web** — сайты, интерфейсы и интерактивные идеи.
-
-**Telegram** — боты, которые помогают с повседневными задачами.
+**Разработка программ** — приложения для ПК и iOS: DotaLens, OverChat и RELAY.
 
 ### F1 / Charles Leclerc
 
